@@ -3,19 +3,9 @@
 <h3 align="center">This is my college account. </h3>
 <h3 align="center">See this account for [personal development](https://github.com/IsseTeruhi/IsseTeruhi)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isseteruhi&label=Profile%20views&color=0e75b6&style=flat" alt="isseteruhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isseteruhi-uni&label=Profile%20views&color=0e75b6&style=flat" alt="isseteruhi-uni" /> </p>
 
-- 🔭 I made [Nerukowa](https://github.com/IsseTeruhi/nerukowa) (private Repositry)
 
-- 🌱 I’m currently learning **Flutter,Python**
-
-- 🔭 I made [Daigomi](https://github.com/IsseTeruhi/DAIGOMI) (private Repositry)
-
-- 🔭 I made [school chat](https://github.com/IsseTeruhi/chatdemoapp) (private Repositry)
-
-- 📫 How to reach me **isseteruterubouzu@yahoo.co.jp**
-
-- ⚡ Fun fact [Atcorder](https://atcoder.jp/users/teruterubouzu)
 
 
 <h3 align="left">Languages and Tools:</h3>
