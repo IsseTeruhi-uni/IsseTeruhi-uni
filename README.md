@@ -13,4 +13,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isseteruhi-uni&show_icons=true&locale=en" alt="isseteruhi-uni" /></p>
 
 
-[![Top Langs](github-readme-stats-clone-fdp5.vercel.app/api/top-langs/?username=IsseTeruhi-uni&layout=pie)](https://github.com/IsseTeruhi-uni/github-readme-stats)
+![github-readme-stats](github-readme-stats-clone-fdp5.vercel.app/api/top-langs/?username=IsseTeruhi-uni)
+
