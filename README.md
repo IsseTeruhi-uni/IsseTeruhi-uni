@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isse Teruhi-uni</h1>
 <h3 align="center">A passionate frontend developer from Fukuoka</h3>
 <h3 align="center">This is my college account. </h3>
-<h3 align="center">See this account for [personal development](https://github.com/IsseTeruhi/IsseTeruhi)</h3>
+<h3 align="center">See this account for [personal development](https://github.com/IsseTeruhi)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isseteruhi-uni&label=Profile%20views&color=0e75b6&style=flat" alt="isseteruhi-uni" /> </p>
 
