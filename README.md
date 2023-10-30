@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isseteruhi-uni&label=Profile%20views&color=0e75b6&style=flat" alt="isseteruhi-uni" /> </p>
 
-<p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/542e4e9a-8560-46a4-949c-ca5a299af31b.svg" width="600" height=300></p>
+<p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/542e4e9a-8560-46a4-949c-ca5a299af31b.svg" width="400" height=300></p>
 
 
 
