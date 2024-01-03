@@ -6,16 +6,16 @@
 
 
 
-## Langages and Tools
+<h2>Langages and Tools</h2>
 
 <p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/e1ea0271-1fd9-4529-8d8e-44aa69ed51c6.svg" width="400" height=300></p>
 
-### Frontend
-![My Skills](https://skillicons.dev/icons?i=flutter,laravel,firebase,supabase,)
-### Backend
-![My Skills](https://skillicons.dev/icons?i=php,flask,go,docker,mysql,graphql)
-### Other
-![My Skills](https://skillicons.dev/icons?i=github,githubactions,gcp,aws,figma)
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=flutter,laravel,firebase,supabase"/>
+<h3>Backend</h3>
+<img src="https://skillicons.dev/icons?i=php,flask,go,docker,mysql,graphql"/>
+<h3>Other</h3>
+<img src="https://skillicons.dev/icons?i=github,githubactions,gcp,aws,figma"/>
 
 
 
