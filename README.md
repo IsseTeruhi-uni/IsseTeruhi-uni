@@ -4,9 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isseteruhi-uni&label=Profile%20views&color=0e75b6&style=flat" alt="isseteruhi-uni" /> </p>
 
-<p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/e1ea0271-1fd9-4529-8d8e-44aa69ed51c6.svg" width="400" height=300></p>
+
 
 ## Langages and Tools
+
+<p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/e1ea0271-1fd9-4529-8d8e-44aa69ed51c6.svg" width="400" height=300></p>
+
 ### Frontend
 ![My Skills](https://skillicons.dev/icons?i=flutter,laravel,firebase,supabase,)
 ### Backend
