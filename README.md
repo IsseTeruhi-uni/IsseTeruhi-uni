@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Isse Teruhi-uni</h1>
+<h1 align="center">Hi 👋, I'm Isse Teruhi</h1>
 <h3 align="center">A passionate frontend developer from Fukuoka</h3>
 <h3 align="center">This is my college account. </h3>
 
