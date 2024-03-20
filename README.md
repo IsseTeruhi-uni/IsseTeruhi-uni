@@ -13,7 +13,7 @@
 <h3>Frontend</h3>
 <img src="https://skillicons.dev/icons?i=flutter,laravel,vue,ts,firebase,supabase"/>
 <h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=php,flask,go,docker,mysql,nginx,graphql,"/>
+<img src="https://skillicons.dev/icons?i=php,flask,dart,docker,mysql,nginx,graphql,"/>
 <h3>Other</h3>
 <img src="https://skillicons.dev/icons?i=py,github,githubactions,gcp,aws,heroku,figma"/>
 <h3>Learning</h3>
