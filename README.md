@@ -11,11 +11,13 @@
 <p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/e1ea0271-1fd9-4529-8d8e-44aa69ed51c6.svg" width="400" height=300></p>
 
 <h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=flutter,laravel,vue,react,firebase,supabase"/>
+<img src="https://skillicons.dev/icons?i=flutter,laravel,vue,ts,firebase,supabase"/>
 <h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=php,flask,go,docker,mysql,graphql"/>
+<img src="https://skillicons.dev/icons?i=php,flask,go,docker,mysql,nginx,graphql,"/>
 <h3>Other</h3>
-<img src="https://skillicons.dev/icons?i=github,githubactions,gcp,aws,figma"/>
+<img src="https://skillicons.dev/icons?i=py,github,githubactions,gcp,aws,heroku,figma"/>
+<h3>Learning</h3>
+<img src="https://skillicons.dev/icons?i=react,kotlin,go,kubernetes,"/>
 
 
 
