@@ -17,7 +17,7 @@
 <h3>Other</h3>
 <img src="https://skillicons.dev/icons?i=py,github,githubactions,gcp,aws,heroku,figma"/>
 <h3>Learning</h3>
-<img src="https://skillicons.dev/icons?i=react,kotlin,go,kubernetes,"/>
+<img src="https://skillicons.dev/icons?i=react,kotlin,go,kubernetes,terraform,"/>
 
 
 
