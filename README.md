@@ -19,7 +19,7 @@
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=githubactions,gcp,aws,heroku,firebase,supabase,figma"/>
 <h3>Learning</h3>
-<img src="https://skillicons.dev/icons?i=react,kotlin,go,kubernetes,terraform,"/>
+<img src="https://skillicons.dev/icons?i=react,kotlin,go,kubernetes,terraform,ansible"/>
 
 
 
