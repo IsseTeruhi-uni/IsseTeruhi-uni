@@ -8,7 +8,7 @@
 
 <h2>Langages and Tools</h2>
 
-<p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/e1ea0271-1fd9-4529-8d8e-44aa69ed51c6.svg" width="400" height=300></p>
+<p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/454eae12-d6a5-4ca8-8f39-6c6eb620db71.svg" width="400" height=300></p>
 
 <h3>Frontend</h3>
 <img src="https://skillicons.dev/icons?i=flutter,laravel,nextjs,vue,react"/>
