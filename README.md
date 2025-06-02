@@ -11,15 +11,22 @@
 <p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/454eae12-d6a5-4ca8-8f39-6c6eb620db71.svg" width="400" height=300></p>
 
 <h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=flutter,laravel,nextjs,vue,react"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,vue,react"/>
+
 <h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=php,go,flask,dart,graphql,"/>
-<h3>Other</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,py,tensorflow"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,go,flask,graphql,adonis"/>
+
+<h3>Mobile</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,reactnative,kotlin,swift"/>
+
+<h3>Infra</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes,terraform,ansible,gcp,aws,heroku"/>
+
 <h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=githubactions,gcp,aws,heroku,firebase,supabase,figma"/>
-<h3>Learning</h3>
-<img src="https://skillicons.dev/icons?i=adonis,kotlin,kubernetes,terraform,ansible"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,firebase,supabase,figma"/>
+
+<h3>Other</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,tensorflow,unity"/>
 
 
 
