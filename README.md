@@ -26,7 +26,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,firebase,supabase,figma"/>
 
 <h3>Other</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,tensorflow,unity"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,java,tensorflow,unity"/>
 
 
 
