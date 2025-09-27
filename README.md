@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Isse Teruhi</h1>
 <h3 align="center">A passionate full-stack engineer from Fukuoka</h3>
 <h3 align="center">This is my college account. </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isseteruhi-uni&label=Profile%20views&color=0e75b6&style=flat" alt="isseteruhi-uni" /> </p>
-
-
-
 <h2>Langages and Tools</h2>
 
 <p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/454eae12-d6a5-4ca8-8f39-6c6eb620db71.svg" width="400" height=300></p>
