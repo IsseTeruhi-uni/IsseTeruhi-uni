@@ -3,7 +3,6 @@
 <h3 align="center">This is my college account. </h3>
 <h2>Langages and Tools</h2>
 
-<p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/454eae12-d6a5-4ca8-8f39-6c6eb620db71.svg" width="400" height=300></p>
 
 <h3>Frontend</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,vue,react"/>
