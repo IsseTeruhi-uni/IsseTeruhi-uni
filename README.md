@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack engineer from Fukuoka</h3>
 <h3 align="center">This is my college account. </h3>
 <h2>Langages and Tools</h2>
-
+<p align="left"><img src="https://wakatime.com/share/@12f105df-0732-4fc5-9f9e-39054b31a956/988a72d5-1f41-4662-80ec-780679e84519.svg" width="400" height=300></p>
 
 <h3>Frontend</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,vue,react"/>
